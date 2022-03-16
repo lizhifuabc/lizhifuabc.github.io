@@ -1,0 +1,2 @@
+- :memo: 目录
+   - [弱点](/md/business/弱点.md)
