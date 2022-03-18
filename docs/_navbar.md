@@ -3,7 +3,7 @@
 * [Spring Cloud / Boot](/md/springcloud/)
 * [MySQL](/md/mysql/)
 * [Redis](/md/redis/)
-* [Spring 设计模式](/md/spring-design-patterns/)
+* [设计模式](/md/spring-design-patterns/)
 * JAVA
   * [JVM](/md/jvm/)
 * [程序员创业](/md/business/)

@@ -53,6 +53,9 @@ alias jdk8='export JAVA_HOME=$JAVA_8_HOME'
 export JAVA_11_HOME="/Library/Java/JavaVirtualMachines/jdk-11.0.9.jdk/Contents/Home"
 alias jdk11='export JAVA_HOME=$JAVA_11_HOME'
 
+export JAVA_17_HOME="/Users/lizhifu/Library/Java/JavaVirtualMachines/openjdk-17.0.2/Contents/Home"
+alias jdk17='export JAVA_HOME=$JAVA_17_HOME'
+
 # 默认使用jdk11
 export JAVA_HOME=$JAVA_11_HOME
 # java
@@ -69,4 +72,5 @@ java -version
 # 切换
 jdk8
 jdk11
+jdk17
 ```
