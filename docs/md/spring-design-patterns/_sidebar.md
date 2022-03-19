@@ -1,4 +1,5 @@
 - 🌱目录🌱
+   - [建造者(Builder)模式](/md/spring-design-patterns/建造者(Builder)模式.md)
    - [策略模式](/md/spring-design-patterns/策略模式.md)
    - [单例模式](/md/spring-design-patterns/单例模式.md)
      - [静态内部类](/md/spring-design-patterns/单例模式-静态内部类.md)
