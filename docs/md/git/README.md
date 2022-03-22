@@ -1,6 +1,16 @@
 # Git 命令
 
 ```shell
+# 全局用户名密码 & 记住用户名密码
+git config --global user.name "bryan sun"
+git config --global user.email "hitsjt@gmail.com"
+
+git config --global credential.helper store
+```
+
+
+
+```shell
 # 把暂存区中的文件提交到本地仓库，调用文本编辑器输入该次提交的描述信息
 $ git commit
 
@@ -32,5 +42,14 @@ $ git add --all [<文件路径>]
 $ git add -i [<文件路径>]
 $ git add --interactive [<文件路径>]
 
+```
+
+```shell
+# 更改仓库地址
+1、git remote rm origin（删除远程地址）
+# ‘[]’内为新的git仓库地址，真实写命令时不要带中括号‘[]’
+2、git remote add origin [url]
+# 分支master 设置为跟踪来自origin的远程分支master
+3、git branch –set-upstream-to=origin/master master
 ```
 

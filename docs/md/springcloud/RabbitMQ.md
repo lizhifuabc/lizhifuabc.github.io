@@ -4,6 +4,45 @@
 
 [Messaging that just works — RabbitMQ](https://www.rabbitmq.com/)
 
+安装：
+
+```shell
+brew install rabbitmq
+
+==> Pouring rabbitmq--3.9.13.all.bottle.tar.gz
+==> Caveats
+Management Plugin enabled by default at http://localhost:15672
+
+To restart rabbitmq after an upgrade:
+  brew services restart rabbitmq
+Or, if you don't want/need a background service you can just run:
+  CONF_ENV_FILE="/usr/local/etc/rabbitmq/rabbitmq-env.conf" /usr/local/opt/rabbitmq/sbin/rabbitmq-server
+==> Summary
+🍺  /usr/local/Cellar/rabbitmq/3.9.13: 1,390 files, 30.1MB
+==> Running `brew cleanup rabbitmq`...
+Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+Removing: /usr/local/Cellar/rabbitmq/3.8.9_1... (117 files, 26.5MB)
+==> Caveats
+==> rabbitmq
+Management Plugin enabled by default at http://localhost:15672
+
+To restart rabbitmq after an upgrade:
+  brew services restart rabbitmq
+Or, if you don't want/need a background service you can just run:
+  CONF_ENV_FILE="/usr/local/etc/rabbitmq/rabbitmq-env.conf" /usr/local/opt/rabbitmq/sbin/rabbitmq-server
+➜  ~
+```
+
+启动：http://localhost:15672/ guest/guesg
+
+```
+/usr/local/Cellar/rabbitmq/3.9.13
+./sbin/rabbitmq-server
+```
+
+
+
 ## 工作模式
 
 1. 简单模式：一个生产者、一个队列和一个消费者，生产者发送消息至队列，消费者监听队列并消费消息

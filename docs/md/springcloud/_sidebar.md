@@ -1,7 +1,9 @@
 - :memo: 目录
-   - 消息队列
+   - [消息队列](/md/springcloud/queue.md)
      - [RabbitMQ](/md/springcloud/RabbitMQ.md)
-   
+     - [RabbitMQ高可用](/md/springcloud/RabbitMQ高可用.md)
+     - [RabbitMQ消息的可靠性传输](/md/springcloud/RabbitMQ消息的可靠性传输.md)
+     
    - 微服务分布式
      - [分布式ID](/md/springcloud/分布式ID.md)
    - spring
