@@ -1,11 +1,17 @@
 - :memo: 目录
    - [消息队列](/md/springcloud/queue.md)
-     - [RabbitMQ](/md/springcloud/RabbitMQ.md)
-     - [RabbitMQ高可用](/md/springcloud/RabbitMQ高可用.md)
-     - [RabbitMQ消息的可靠性传输](/md/springcloud/RabbitMQ消息的可靠性传输.md)
+     - RabbitMQ
+       - [RabbitMQ](/md/springcloud/RabbitMQ.md)
+       - [RabbitMQ高可用](/md/springcloud/RabbitMQ高可用.md)
+       - [RabbitMQ消息的可靠性传输](/md/springcloud/RabbitMQ消息的可靠性传输.md)
+     - Kafka
+       - [Kafka安装](/md/springcloud/Kafka.md)
+       - [kafka基础架构](/md/springcloud/kafka核心组件.md)
+       - [Kafka分区](/md/springcloud/kafka分区.md)
      
    - 微服务分布式
      - [分布式ID](/md/springcloud/分布式ID.md)
+     - [接口幂等性](/md/springcloud/接口幂等性.md)
    - spring
      - [循环依赖(三级缓存)](/md/springcloud/循环依赖(三级缓存).md)
    - spring cloud
