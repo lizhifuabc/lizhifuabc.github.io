@@ -71,6 +71,12 @@ Or, if you don't want/need a background service you can just run:
 
    <img src="../../assets/img/image-20220321100412645.png" alt="image-20220321100412645" style="zoom:50%;" />
 
-6. RPC 模式：
+6. Header模式：
+
+   header模式与routing不同的地方在于，header模式取消routingkey，使用header中的 key/value（键值对）匹配队列。
+   
+   
+   
+7. RPC 模式：
 
    RPC 模式主要针对需要获取消费者处理结果的情况，通常是生产者将消息发送给了消费者，消费者接收到消息并进行消费后返回给生产者处理结果
