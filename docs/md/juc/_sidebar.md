@@ -10,6 +10,7 @@
      - [自旋锁](/md/juc/自旋锁.md)
      - [CAS](/md/juc/cas.md)
        - [AtomicInteger](/md/juc/AtomicInteger.md)
+     - [synchronized](/md/juc/synchronized.md)
      
       
 
