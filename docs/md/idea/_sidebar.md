@@ -1,0 +1,3 @@
+- :memo: 目录
+   - [ai代码插件](/md/idea/ai代码插件.md)
+   - [运行环境配置](/md/idea/idea.md)
