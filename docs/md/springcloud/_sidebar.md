@@ -8,6 +8,9 @@
        - [Kafka安装](/md/springcloud/Kafka.md)
        - [kafka基础架构](/md/springcloud/kafka核心组件.md)
        - [Kafka分区](/md/springcloud/kafka分区.md)
+       - [生产者](/md/springcloud/kafka/生产者.md)
+       - 源码分析
+         - [ProducerRecord源码分析](/md/springcloud/kafka/ProducerRecord源码分析.md)
    - 微服务分布式
      - [分布式ID](/md/springcloud/分布式ID.md)
      - [接口幂等性](/md/springcloud/接口幂等性.md)
