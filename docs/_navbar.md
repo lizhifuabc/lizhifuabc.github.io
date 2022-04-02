@@ -17,5 +17,5 @@
   * [常见规范](/md/code/)
   * [docsify博客搭建](/md/docsify/docsify博客搭建.md)
   * [IDED](/md/idea/)
-
+  * [nginx](/md/nginx/)
 

@@ -1,0 +1,2 @@
+- :memo: 目录
+   - [nginx配置访问本地静态资源](/md/nginx/nginx配置访问本地静态资源.md)
