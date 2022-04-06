@@ -53,3 +53,15 @@ $ git add --interactive [<文件路径>]
 3、git branch –set-upstream-to=origin/master master
 ```
 
+```shell
+# 怎样忽略被提交过的.idea文件夹
+1：敲入 git rm -r --cached .idea （要是报错,就试一下git rm  --cached .idea -r)
+2：敲入 git commit -m"删除不需要的文件夹"
+3：git push
+
+
+git rm -r --cached .
+git add .
+git commit -m 'update .gitignore'
+```
+

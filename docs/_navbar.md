@@ -8,7 +8,9 @@
   * [Java基础](/md/java/)
   * [JUC并发编程](/md/juc/)
   * [JVM](/md/jvm/)
-  
+* 常用软件
+  * [开源软件](/md/software/open.md)
+
 * [程序员创业](/md/business/)
 * 其他
   * [maven](/md/maven/)

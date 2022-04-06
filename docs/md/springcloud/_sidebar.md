@@ -13,6 +13,7 @@
          - [ProducerRecord源码分析](/md/springcloud/kafka/ProducerRecord源码分析.md)
    - 微服务分布式
      - [分布式ID](/md/springcloud/分布式ID.md)
+     - [分布式ID-雪花算法](/md/springcloud/SnowFlake.md)
      - [接口幂等性](/md/springcloud/接口幂等性.md)
    - spring
      - [循环依赖(三级缓存)](/md/springcloud/循环依赖(三级缓存).md)

@@ -2,12 +2,13 @@
 
 **对象类型介绍**
 
+POJO是 DO/DTO/BO/VO 的统称，禁止命名成 xxxPOJO
+
 - PO：persistent object 持久对象
   - 持久化对象，它跟持久层（通常是关系型数据库）的数据结构形成一一对应的映射关系，如果持久层是关系型数据库，那么，数据表中的每个字段（或若干个）就对应PO的一个（或若干个）属性。
   - 有时也被称为Data对象，对应数据库中的 entity ，可以简单认为一个 PO 对应数据库中的一条记录。
   - 在 Mybatis 持久化框架中与 insert/delet 操作密切相关。
   - PO中不应该包含任何对数据库的操作。
-- POJO ：plain ordinary java object 无规则简单 java 对象
 - VO：value object 值对象 / view object 表现层对象
   - 主要对应页面显示（web页面/swt、swing界面）的数据对象。
   - 可以和表对应，也可以不，这根据业务的需要。
