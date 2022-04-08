@@ -8,6 +8,7 @@
   * [Java基础](/md/java/)
   * [JUC并发编程](/md/juc/)
   * [JVM](/md/jvm/)
+  * [动态线程池](/md/thread/)
 * 常用软件
   * [开源软件](/md/software/open.md)
 
