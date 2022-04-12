@@ -1,4 +1,7 @@
 - :memo: 目录
+   - 概念
+     - [hashCode](/md/hashCode.md)
+   
    - 集合
      - [HashMap](/md/java/HashMap.md)
        - [HashMap构造函数](/md/java/HashMap构造函数.md)
@@ -7,4 +10,5 @@
        - [HashMap扩容或初始化](/md/java/HashMap扩容或初始化.md)
        - [Node源码](/md/java/HashMap-Node.md)
        - [HashMap-put方法](/md/java/HashMap-put.md)
+   
 
