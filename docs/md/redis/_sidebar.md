@@ -7,6 +7,7 @@
    - [Redis过期策略](/md/redis/redis过期策略.md)
    - [Redis分布式锁](/md/redis/redis分布式锁.md)
    - [redis速度快](/md/redis/redis速度快.md)
+   - [布隆过滤器](/md/redis/布隆过滤器.md)
    - 面试
      - [面试题](/md/redis/面试1.md)
 

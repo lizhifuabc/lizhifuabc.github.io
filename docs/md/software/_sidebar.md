@@ -1,1 +1,2 @@
 - :memo: 目录
+- [监控软件Prometheus](/md/software/prometheus.md)

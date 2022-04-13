@@ -3,6 +3,9 @@
      - [hashCode](/md/hashCode.md)
    
    - 集合
+     - [数组](/md/java/数组.md)
+       - [数组操作](/md/java/数组操作.md)
+   
      - [HashMap](/md/java/HashMap.md)
        - [HashMap构造函数](/md/java/HashMap构造函数.md)
        - [HashMap主要变量](/md/java/HashMap-变量.md)
