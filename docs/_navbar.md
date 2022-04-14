@@ -10,8 +10,9 @@
   * [JVM](/md/jvm/)
   * [动态线程池](/md/thread/)
 * 常用软件
-  * [开源软件](/md/software/open.md)
-
+  * [IDED](/md/idea/)
+  * [开源项目](/md/software/open.md)
+  
 * [程序员创业](/md/business/)
 * 其他
   * [maven](/md/maven/)
@@ -19,6 +20,5 @@
   * [Git](/md/git/)
   * [常见规范](/md/code/)
   * [docsify博客搭建](/md/docsify/docsify博客搭建.md)
-  * [IDED](/md/idea/)
   * [nginx](/md/nginx/)
 

@@ -12,9 +12,12 @@
        - 源码分析
          - [ProducerRecord源码分析](/md/springcloud/kafka/ProducerRecord源码分析.md)
    - 微服务分布式
+     - [分库分表](/md/springcloud/分库分表.md)
+     - [分库分表-取模](/md/springcloud/分库分表-取模.md)
      - [分布式ID](/md/springcloud/分布式ID.md)
      - [分布式ID-雪花算法](/md/springcloud/SnowFlake.md)
      - [接口幂等性](/md/springcloud/接口幂等性.md)
+     
    - spring
      - [循环依赖(三级缓存)](/md/springcloud/循环依赖(三级缓存).md)
    - spring cloud
@@ -26,7 +29,6 @@
      - [自定义Predicate](/md/springcloud/自定义Predicate.md)
      - [网关统一异常处理](/md/springcloud/网关统一异常处理.md)
      - [微服务架构安全认证](/md/springcloud/安全认证.md)
-     
    - spring boot
      - [自定义starter](/md/springcloud/自定义starter.md)
      - [其他常用命令](/md/springcloud/其他常用命令.md)
