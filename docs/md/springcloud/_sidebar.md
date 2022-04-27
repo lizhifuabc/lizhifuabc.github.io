@@ -32,6 +32,7 @@
      - [微服务架构安全认证](/md/springcloud/安全认证.md)
    - spring boot
      - [自定义starter](/md/springcloud/自定义starter.md)
+     - [结合jwt](/md/springcloud/jwt.md)
      - [其他常用命令](/md/springcloud/其他常用命令.md)
    
 

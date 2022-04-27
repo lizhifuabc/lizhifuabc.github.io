@@ -12,7 +12,7 @@
 * 常用软件
   * [IDED](/md/idea/)
   * [开源项目](/md/software/open.md)
-  
+* [数据结构和算法](/md/datastructure/)
 * [程序员创业](/md/business/)
 * 其他
   * [maven](/md/maven/)
