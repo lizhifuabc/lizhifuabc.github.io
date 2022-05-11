@@ -3,6 +3,7 @@
 * [Spring Cloud / Boot](/md/springcloud/)
 * [MySQL](/md/mysql/)
 * [Redis](/md/redis/)
+* [消息队列](/md/queue/)
 * [设计模式](/md/spring-design-patterns/)
 * JAVA
   * [Java基础](/md/java/)

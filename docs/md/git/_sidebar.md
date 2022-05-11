@@ -1,3 +1,4 @@
 - :memo: 目录
    - [fork代码和提交](/md/git/fork代码和提交.md)
    - [git强制覆盖本地命令](/md/git/git强制覆盖本地命令.md)
+   - [git项目部署](/md/git/项目部署.md)
