@@ -1,5 +1,6 @@
 - :memo: 目录
    - [常见缓存淘汰算法](/md/redis/常见缓存算法.md)
+   - [Redis基本使用规则](/md/redis/Redis基本使用规则.md)
    - [Redis5种基本数据结构](/md/redis/Redis5种基本数据结构.md)
    - [Redis主从复制](/md/redis/Redis主从复制.md)
    - [Redis集群](/md/redis/Redis集群.md)
