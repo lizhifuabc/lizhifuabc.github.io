@@ -14,6 +14,8 @@
 
 [SpringBoot使用Validation校验参数](/md/springcloud/SpringBoot使用Validation校验参数.md)
 
+[SpringBoot使用Mybatis-FreeMarker](/md/springcloud/SpringBoot使用Mybatis-FreeMarker.md)
+
 # Spring 源码学习
 
 [spring循环依赖](/md/springcloud/spring循环依赖.md)
