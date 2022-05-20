@@ -14,6 +14,8 @@
 
 [SpringBoot使用Validation校验参数](/md/springcloud/SpringBoot使用Validation校验参数.md)
 
+[SpringBoot使用logback日志打印](/md/springcloud/SpringBoot使用logback日志打印.md)
+
 [SpringBoot使用Mybatis-FreeMarker](/md/springcloud/SpringBoot使用Mybatis-FreeMarker.md)
 
 # Spring 源码学习
@@ -25,4 +27,8 @@
 [PART1-SpringCloud项目初始化](/md/springcloud/SpringCloud基础教程/PART1-SpringCloud项目初始化.md)
 
 [SpringCloud分布式配置组件](/md/springcloud/SpringCloud分布式配置组件.md)
+
+# Spring 版本升级
+
+[SpringBoot2.7](/md/springcloud/SpringBoot2.7.md)
 
