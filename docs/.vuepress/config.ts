@@ -1,6 +1,7 @@
 import { defaultTheme } from 'vuepress'
+import { docsearchPlugin } from '@vuepress/plugin-docsearch'
 
-module.exports = {
+export default {
   lang: 'zh-CN',
   title: '拔土豆的程序员',
   description: '不知道咋说，随便写写吧。',
@@ -16,4 +17,9 @@ module.exports = {
       { text: '指南', link: '/guide/' }
     ],
   }),
+  plugins: [
+    docsearchPlugin({
+      // 配置项
+    }),
+  ],
 }
