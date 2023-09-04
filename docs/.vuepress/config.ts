@@ -1,3 +1,5 @@
+import { defaultTheme } from 'vuepress'
+
 module.exports = {
   lang: 'zh-CN',
   title: '拔土豆的程序员',
@@ -6,12 +8,12 @@ module.exports = {
   markdown:{
     lineNumbers: true, // 代码块行号
   },
-  themeConfig: {
+  theme : defaultTheme( {
     logo: '/images/logo.png',
     // 添加导航栏
     navbar: [
       { text: '首页', link: '/' },
       { text: '指南', link: '/guide/' }
     ],
-  },
+  }),
 }
