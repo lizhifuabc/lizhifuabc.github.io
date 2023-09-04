@@ -42,6 +42,7 @@ export default {
         children: [
           {text: 'Maven',link:'/tools/maven/'},
           {text: 'Git',link:'/tools/git/'},
+          {text: 'IntelliJ IDEA',link:'/tools/idea/'},
         ],
       },
       { text: 'GitHub', link: 'https://github.com/lizhifuabc' },

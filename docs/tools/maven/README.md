@@ -1,6 +1,8 @@
 # Maven
 
-- [Maven基础](./Maven基础)
+[Maven基础](./Maven基础)
+
+[服务器手动部署Maven项目](./服务器手动部署Maven项目.md)
 
 
 
