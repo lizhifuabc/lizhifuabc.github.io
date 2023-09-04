@@ -14,6 +14,30 @@ export default {
     // 添加导航栏
     navbar: [
       { text: '首页', link: '/' },
+      { text: 'java',
+        children: [
+          {text: 'Java并发编程',link:'/java/concurrent/'},
+          {text: 'JVM',link:'/java/jvm/'},
+        ],
+      },
+      { text: '架构',
+        children: [
+          {
+            text: '分布式系统设计',
+            children: [
+              { text: '全局唯一ID实现方案', link: '/design/全局唯一ID实现方案.md' },
+              { text: '分布式锁及实现方案', link: '/design/分布式锁及实现方案.md' },
+            ],
+          },
+          {
+            text: '设计模式',
+            children: [
+              
+            ],
+          },
+        ],
+      },
+      { text: 'GitHub', link: '/guide/' },
       { text: '指南', link: '/guide/' }
     ],
   }),
