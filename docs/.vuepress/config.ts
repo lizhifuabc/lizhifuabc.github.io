@@ -37,8 +37,14 @@ export default {
           },
         ],
       },
-      { text: 'GitHub', link: '/guide/' },
-      { text: '指南', link: '/guide/' }
+      { text: '支付系统', link: '/pay/' },
+      { text: '工具集',
+        children: [
+          {text: 'Maven',link:'/tools/maven/'},
+          {text: 'Git',link:'/tools/git/'},
+        ],
+      },
+      { text: 'GitHub', link: 'https://github.com/lizhifuabc' },
     ],
   }),
   plugins: [
