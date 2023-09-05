@@ -3,10 +3,10 @@ home: true
 # Public 文件路径
 heroImage: /images/logo.png
 actions:
-  - text: 快速上手 →
-    link: /zh/guide/getting-started.html
+  - text: 写点什么 →
+    link: /started/
     type: primary
-  - text: 项目简介 →
+  - text: 几个项目 →
     link: /guide/
     type: secondary
 features:
