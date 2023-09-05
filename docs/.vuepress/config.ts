@@ -22,19 +22,15 @@ export default {
       },
       { text: '架构',
         children: [
-          {
-            text: '分布式系统设计',
-            children: [
-              { text: '全局唯一ID实现方案', link: '/design/全局唯一ID实现方案.md' },
-              { text: '分布式锁及实现方案', link: '/design/分布式锁及实现方案.md' },
-            ],
-          },
-          {
-            text: '设计模式',
-            children: [
-              
-            ],
-          },
+          {text: '分布式系统设计',link:'/design/distributed/'},
+          {text: '设计模式',link:'/design/designpatterns/'},
+        ],
+      },
+      { text: '数据库',
+        children: [
+          {text: 'MYSQL',link:'/database/mysql/'},
+          {text: 'Redis',link:'/database/redis/'},
+          {text: 'PostgreSQL',link:'/database/postgresql/'},
         ],
       },
       { text: '支付系统', link: '/pay/' },
