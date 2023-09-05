@@ -55,6 +55,9 @@ export default {
   plugins: [
     docsearchPlugin({
       // 配置项
+      apiKey: '6a798fcaf001bf89e511282c3e3ae7db',
+      indexName: 'lizhifuabcio',
+      appId: '78IVUHUF7Z',
     }),
   ],
 }
