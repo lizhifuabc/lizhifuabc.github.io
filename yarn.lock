@@ -579,9 +579,9 @@
     vue "^3.3.4"
     vue-router "^4.2.4"
 
-"@vuepress/plugin-back-to-top@2.0.0-beta.67":
+"@vuepress/plugin-back-to-top@^2.0.0-beta.67", "@vuepress/plugin-back-to-top@2.0.0-beta.67":
   version "2.0.0-beta.67"
-  resolved "https://registry.npmmirror.com/@vuepress/plugin-back-to-top/-/plugin-back-to-top-2.0.0-beta.67.tgz"
+  resolved "https://registry.npmjs.org/@vuepress/plugin-back-to-top/-/plugin-back-to-top-2.0.0-beta.67.tgz"
   integrity sha512-ystolf429cvAfX4qw1o9sHfkB8+KdQ4rV8P4ILR5LERgTZprL+1FbQfcHgVjEF2p0UKu2QXJQNGx2LfWWVuYdw==
   dependencies:
     "@vuepress/client" "2.0.0-beta.67"

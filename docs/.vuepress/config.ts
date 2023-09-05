@@ -1,5 +1,6 @@
 import { defaultTheme } from 'vuepress'
 import { docsearchPlugin } from '@vuepress/plugin-docsearch'
+import { backToTopPlugin } from '@vuepress/plugin-back-to-top'
 
 export default {
   lang: 'zh-CN',
@@ -53,6 +54,7 @@ export default {
     ],
   }),
   plugins: [
+    backToTopPlugin(),
     docsearchPlugin({
       // 配置项
       apiKey: '6a798fcaf001bf89e511282c3e3ae7db',
