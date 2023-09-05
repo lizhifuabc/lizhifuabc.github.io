@@ -24,6 +24,7 @@ export default {
         children: [
           {text: '分布式系统设计',link:'/design/distributed/'},
           {text: '设计模式',link:'/design/designpatterns/'},
+          {text: '业务功能设计',link:'/design/business/'},
         ],
       },
       { text: '数据库',
