@@ -33,6 +33,13 @@ export default {
           {text: 'PostgreSQL',link:'/database/postgresql/'},
         ],
       },
+      { text: 'Spring',
+        children: [
+          {text: 'Spring',link:'/spring/spring/'},
+          {text: 'SpringBoot',link:'/spring/springBoot/'},
+          {text: 'SpringCloud',link:'/spring/springCloud/'},
+        ],
+      },
       { text: '支付系统', link: '/pay/' },
       { text: '工具集',
         children: [
