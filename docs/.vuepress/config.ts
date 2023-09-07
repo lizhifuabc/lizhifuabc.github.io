@@ -17,6 +17,7 @@ export default {
       { text: '首页', link: '/' },
       { text: 'java',
         children: [
+          {text: 'Java基础',link:'/java/base/'},
           {text: 'Java并发编程',link:'/java/concurrent/'},
           {text: 'JVM',link:'/java/jvm/'},
           {text: '开源框架',link:'/java/opensource/'},
