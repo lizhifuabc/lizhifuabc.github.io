@@ -23,6 +23,11 @@ export default {
           {text: '开源框架',link:'/java/opensource/'},
         ],
       },
+      { text: '消息队列',
+        children: [
+          {text: 'RabbitMQ',link:'/mq/rabbitmq/'},
+        ],
+      },
       { text: '架构',
         children: [
           {text: '分布式系统设计',link:'/design/distributed/'},
