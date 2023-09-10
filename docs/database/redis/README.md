@@ -10,7 +10,7 @@
 
 [秒杀系统Redis常用脚本](./秒杀系统Redis常用脚本.md)
 
-[Redis数据持久化](./Redis 数据持久化.md)
+[Redis数据持久化](./Redis数据持久化.md)
 
 [Redis集群方式](./Redis集群方式.md)
 
