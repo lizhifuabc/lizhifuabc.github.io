@@ -1,6 +1,6 @@
 # JVM
 
-[Java内存区域](./Java内存区域.md)
+[Java内存布局](./Java内存布局.md)
 
 ## GC - Java 垃圾回收
 
