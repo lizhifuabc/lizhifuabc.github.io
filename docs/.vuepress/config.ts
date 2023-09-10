@@ -38,8 +38,8 @@ export default {
       },
       { text: '数据库',
         children: [
-          {text: 'MYSQL',link:'/database/mysql/'},
-          {text: 'Redis',link:'/database/redis/'},
+          {text: 'MySQL',link:'/database/mysql/'},
+          {text: 'NoSQL',link:'/database/nosql/'},
           {text: 'PostgreSQL',link:'/database/postgresql/'},
         ],
       },
