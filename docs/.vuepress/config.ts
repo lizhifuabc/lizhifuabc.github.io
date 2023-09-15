@@ -56,6 +56,7 @@ export default {
           {text: 'Maven',link:'/tools/maven/'},
           {text: 'Git',link:'/tools/git/'},
           {text: 'IntelliJ IDEA',link:'/tools/idea/'},
+          {text: '效率工具',link:'/tools/help/'},
         ],
       },
       { text: 'GitHub', link: 'https://github.com/lizhifuabc' },
