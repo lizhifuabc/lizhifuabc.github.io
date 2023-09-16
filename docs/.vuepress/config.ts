@@ -54,6 +54,7 @@ export default {
       { text: '工具集',
         children: [
           {text: 'Maven',link:'/tools/maven/'},
+          {text: 'Docker',link:'/tools/Docker/'},
           {text: 'Git',link:'/tools/git/'},
           {text: 'IntelliJ IDEA',link:'/tools/idea/'},
           {text: '效率工具',link:'/tools/help/'},

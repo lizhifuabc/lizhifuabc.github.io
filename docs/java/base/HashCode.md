@@ -67,3 +67,19 @@ static final int hash(Object key) {
 ```
 
 ![image-20230909102016734](image/image-20230909102016734.png)
+
+## 魔数31
+
+```java
+public static int hashCode(byte[] value) {
+    int h = 0;
+    int length = value.length >> 1;
+    for (int i = 0; i < length; i++) {
+        h = 31 * h + getChar(value, i);
+    }
+    return h;
+}
+```
+
+1. 31 是一个奇质数，如果选择偶数会导致乘积运算时数据溢出。
+2. 另外在二进制中，2个5次方是32，那么也就是 `31 * i == (i << 5) - i`。这主要是说乘积运算可以使用位移提升性能，同时目前的JVM虚拟机也会自动支持此类的优化。
