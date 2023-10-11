@@ -8,7 +8,9 @@
 
 [MySQL二进制日志（Binary Log）](MySQL-BinaryLog.md)
 
-## 待分类
+## 小技巧
+
+[MySQL-limit优化](./MySQL-limit优化.md)
 
 [MySQL-count用法分析](./MySQL-count用法分析.md)
 
