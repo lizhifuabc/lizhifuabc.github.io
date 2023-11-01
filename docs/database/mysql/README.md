@@ -1,5 +1,7 @@
 # MySQL
 
+[MySQL全文索引](./MySQL全文索引.md)
+
 ## MySQL日志
 
 [MySQL日志概述](./MySQL日志.md)

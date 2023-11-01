@@ -132,4 +132,22 @@ docker exec -it f5332ebce695 /bin/bash
 
 
 
+DockerFile 文件执行：
+
+1. 执行以下命令来构建 Docker 镜像：
+
+   docker build -t <image_name> .
+
+   其中，`<image_name>` 为镜像指定的名称，可以自定义。命令中的 `.` 表示 DockerFile 文件所在的当前目录。
+
+2. 查看已构建的镜像：docker images
+
+3. 运行该镜像
+
+   docker run -d <image_name>
+
+   其中，`<image_name>` 是您在构建镜像时指定的名称。选项 `-d` 表示在后台运行容器。
+
+
+
 > https://pdai.tech/md/interview/x-interview-2.html#_15-2-docker

@@ -173,3 +173,24 @@ git commit -m 'update .gitignore'
    ```
 
 7. git push 推送到自己的远程
+
+## 分支
+
+列出本地仓库中的所有分支、列出本地所有分支的详细信息：
+
+```
+git branch
+git branch -v
+```
+
+可列出本地和远程仓库中的所有分支:
+
+```
+git branch -a
+```
+
+列出已经合并到当前分支的所有分支:
+
+```
+git branch --merged
+```
