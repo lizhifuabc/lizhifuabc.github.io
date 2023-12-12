@@ -30,6 +30,7 @@ export default {
       },
       { text: '架构',
         children: [
+          {text: 'OAuth',link:'/design/OAuth/'},
           {text: '分布式系统设计',link:'/design/distributed/'},
           {text: '设计模式',link:'/design/designpatterns/'},
           {text: '代码设计',link:'/design/codedesign/'},

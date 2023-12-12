@@ -36,3 +36,46 @@
 | hotfix  | 紧急修复分支，修复线上bug | 本地开发         | 否     |
 
 ![image-20230916105005256](image/image-20230916105005256.png)
+
+## feature 开发新功能示例
+
+main 分支：https://gitee.com/lizhifu/demo
+
+创建 develop 分支
+
+clone develop 分支：
+
+```bash
+git clone -b develop https://gitee.com/lizhifu/demo
+```
+
+开始开发一个新功能时，从develop分支创建一个新的分支：
+
+```bash
+# 切换到新分支: feature_crm
+git checkout -b feature_crm develop 
+```
+
+开发代码并推送 feature-crm 分支：
+
+```bash
+git push
+```
+
+已完成的功能可以合并到develop分支：
+
+```bash
+# 切换 develop 分支
+git checkout develop
+# no-ff 合并始终创建一个新的提交记录。这样可以避免丢失有关功能分支历史存在的信息，并将一起添加功能的所有提交组合在一起。
+# 创建更多（空的）提交记录，但是收益远大于成本
+git merge --no-ff feature-crm 
+# 推送 develop 分支
+git push
+```
+
+> 这种方式少了 qa 分支，简化了一下。
+
+## Release 分支示例
+
+发布分支是从develop分支创建的。
