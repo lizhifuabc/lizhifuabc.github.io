@@ -5,7 +5,7 @@ import { backToTopPlugin } from '@vuepress/plugin-back-to-top'
 export default {
   lang: 'zh-CN',
   title: '拔土豆的程序员',
-  description: '不知道咋说，随便写写吧。',
+  description: '没进过大厂|技术一般|创业被坑|普普通通程序员',
   // markdown设置
   markdown:{
     lineNumbers: true, // 代码块行号

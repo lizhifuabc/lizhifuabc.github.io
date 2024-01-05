@@ -16,3 +16,6 @@
 
 [Spring中事务以及事务的传播机制](./Spring中事务以及事务的传播机制.md)
 
+1、nginx 摘流
+2、等 http、rpc、mq、job 执行完，或者搓一点 sleep 60-120 秒
+3、shutdown
