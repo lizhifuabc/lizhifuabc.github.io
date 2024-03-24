@@ -1,0 +1,1 @@
+const i=JSON.parse('{"key":"v-58c60e08","path":"/spring/spring/SpringModulith%E7%AE%80%E4%BB%8B.html","title":"SpringModulith简介","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1694847225000,"contributors":[{"name":"拔土豆的程序员","email":"lizhifuabc@163.com","commits":1}]},"filePathRelative":"spring/spring/SpringModulith简介.md"}');export{i as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a34feb52","path":"/design/business/","title":"业务功能设计","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1698818603000,"contributors":[{"name":"拔土豆的程序员","email":"lizhifuabc@163.com","commits":5}]},"filePathRelative":"design/business/README.md"}');export{e as data};

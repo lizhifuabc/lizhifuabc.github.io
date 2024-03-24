@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1a04a451","path":"/spring/springBoot/SpringAuthorizationServer-03.html","title":"自定义异常响应配置","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1704446575000,"contributors":[{"name":"拔土豆的程序员","email":"lizhifuabc@163.com","commits":1}]},"filePathRelative":"spring/springBoot/SpringAuthorizationServer-03.md"}');export{t as data};

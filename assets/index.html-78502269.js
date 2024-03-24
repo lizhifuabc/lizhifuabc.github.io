@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-4cfa6b7f","path":"/mq/rabbitmq/","title":"RabbitMQ","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1698818603000,"contributors":[{"name":"拔土豆的程序员","email":"lizhifuabc@163.com","commits":2}]},"filePathRelative":"mq/rabbitmq/README.md"}');export{t as data};

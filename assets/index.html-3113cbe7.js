@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c2611b14","path":"/java/opensource/","title":"开源框架","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"常用类库","slug":"常用类库","link":"#常用类库","children":[]}],"git":{"updatedTime":1694074496000,"contributors":[{"name":"拔土豆的程序员","email":"lizhifuabc@163.com","commits":2}]},"filePathRelative":"java/opensource/README.md"}');export{e as data};

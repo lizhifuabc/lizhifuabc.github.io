@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-e8ca4984","path":"/java/opensource/MapStruct.html","title":"MapStruct","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1694074496000,"contributors":[{"name":"拔土豆的程序员","email":"lizhifuabc@163.com","commits":1}]},"filePathRelative":"java/opensource/MapStruct.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-ba66e254","path":"/design/OAuth/OAuth2%E5%92%8C%E5%8D%95%E7%82%B9%E7%99%BB%E5%BD%95.html","title":"OAuth2和单点登录","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1704446575000,"contributors":[{"name":"拔土豆的程序员","email":"lizhifuabc@163.com","commits":1}]},"filePathRelative":"design/OAuth/OAuth2和单点登录.md"}');export{t as data};

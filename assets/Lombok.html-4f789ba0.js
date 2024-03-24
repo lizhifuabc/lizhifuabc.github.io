@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as a,a as e,b as c}from"./app-def54fd2.js";const r={},s=e("h1",{id:"lombok",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#lombok","aria-hidden":"true"},"#"),c(" Lombok")],-1),n=[s];function _(d,l){return t(),a("div",null,n)}const m=o(r,[["render",_],["__file","Lombok.html.vue"]]);export{m as default};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-245867a6","path":"/tools/mac/","title":"Mac常用软件","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"已经安装的软件","slug":"已经安装的软件","link":"#已经安装的软件","children":[]}],"git":{"updatedTime":1711264111000,"contributors":[{"name":"拔土豆的程序员","email":"lizhifuabc@163.com","commits":1}]},"filePathRelative":"tools/mac/README.md"}');export{t as data};

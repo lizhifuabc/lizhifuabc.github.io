@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-19bca8e8","path":"/design/codedesign/","title":"架构设计","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1698818603000,"contributors":[{"name":"拔土豆的程序员","email":"lizhifuabc@163.com","commits":3}]},"filePathRelative":"design/codedesign/README.md"}');export{e as data};

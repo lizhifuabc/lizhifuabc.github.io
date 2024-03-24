@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-bb9124d4","path":"/design/designpatterns/","title":"设计模式","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1694267248000,"contributors":[{"name":"拔土豆的程序员","email":"lizhifuabc@163.com","commits":5}]},"filePathRelative":"design/designpatterns/README.md"}');export{e as data};

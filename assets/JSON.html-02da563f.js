@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as o,a as e,b as s}from"./app-def54fd2.js";const c={},n=e("h1",{id:"json",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#json","aria-hidden":"true"},"#"),s(" JSON")],-1),r=[n];function _(d,i){return a(),o("div",null,r)}const l=t(c,[["render",_],["__file","JSON.html.vue"]]);export{l as default};

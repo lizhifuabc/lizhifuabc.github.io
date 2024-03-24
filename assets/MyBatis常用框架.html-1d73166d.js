@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-0f2ce005","path":"/database/mybatis/MyBatis%E5%B8%B8%E7%94%A8%E6%A1%86%E6%9E%B6.html","title":"MyBatis常用框架","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1711264111000,"contributors":[{"name":"拔土豆的程序员","email":"lizhifuabc@163.com","commits":1}]},"filePathRelative":"database/mybatis/MyBatis常用框架.md"}');export{a as data};

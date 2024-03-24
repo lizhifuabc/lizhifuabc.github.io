@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-8df31bf8","path":"/tools/idea/AI%E4%BB%A3%E7%A0%81%E6%8F%92%E4%BB%B6.html","title":"AI代码插件","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1694074496000,"contributors":[{"name":"拔土豆的程序员","email":"lizhifuabc@163.com","commits":2}]},"filePathRelative":"tools/idea/AI代码插件.md"}');export{t as data};

@@ -1,0 +1,1 @@
+import{_ as t,o as s,c as a,a as e,b as o}from"./app-def54fd2.js";const r={},c=e("h1",{id:"postgresql",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#postgresql","aria-hidden":"true"},"#"),o(" PostgreSQL")],-1),n=[c];function _(d,i){return s(),a("div",null,n)}const h=t(r,[["render",_],["__file","index.html.vue"]]);export{h as default};

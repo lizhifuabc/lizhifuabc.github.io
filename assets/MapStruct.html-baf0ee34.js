@@ -1,0 +1,1 @@
+import{_ as t,o as a,c,a as e,b as r}from"./app-def54fd2.js";const s={},o=e("h1",{id:"mapstruct",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#mapstruct","aria-hidden":"true"},"#"),r(" MapStruct")],-1),n=[o];function _(d,i){return a(),c("div",null,n)}const h=t(s,[["render",_],["__file","MapStruct.html.vue"]]);export{h as default};

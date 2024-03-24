@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-566c68c9","path":"/design/business/%E6%8A%80%E6%9C%AF%E8%AE%BE%E8%AE%A1%E6%A8%A1%E6%9D%BF.html","title":"技术设计模板","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1698818603000,"contributors":[{"name":"拔土豆的程序员","email":"lizhifuabc@163.com","commits":1}]},"filePathRelative":"design/business/技术设计模板.md"}');export{e as data};

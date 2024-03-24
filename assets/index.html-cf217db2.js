@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6722736a","path":"/tools/idea/","title":"IDEA","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"插件","slug":"插件","link":"#插件","children":[]}],"git":{"updatedTime":1698818603000,"contributors":[{"name":"拔土豆的程序员","email":"lizhifuabc@163.com","commits":3}]},"filePathRelative":"tools/idea/README.md"}');export{e as data};

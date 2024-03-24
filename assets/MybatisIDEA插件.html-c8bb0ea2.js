@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-64baa8bf","path":"/database/mybatis/MybatisIDEA%E6%8F%92%E4%BB%B6.html","title":"Mybatis IDEA插件","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1711264111000,"contributors":[{"name":"拔土豆的程序员","email":"lizhifuabc@163.com","commits":1}]},"filePathRelative":"database/mybatis/MybatisIDEA插件.md"}');export{a as data};

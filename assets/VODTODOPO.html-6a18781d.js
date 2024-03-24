@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5f52b435","path":"/design/codedesign/VODTODOPO.html","title":"VO、DTO、DO、PO","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1694273721000,"contributors":[{"name":"拔土豆的程序员","email":"lizhifuabc@163.com","commits":2}]},"filePathRelative":"design/codedesign/VODTODOPO.md"}');export{e as data};

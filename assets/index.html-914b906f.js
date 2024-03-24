@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-744b3300","path":"/pay/","title":"支付系统设计","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"文档","slug":"文档","link":"#文档","children":[]}],"git":{"updatedTime":1698818603000,"contributors":[{"name":"拔土豆的程序员","email":"lizhifuabc@163.com","commits":4}]},"filePathRelative":"pay/README.md"}');export{e as data};

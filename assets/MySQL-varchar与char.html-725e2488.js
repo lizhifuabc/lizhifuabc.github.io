@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-19c7f2fc","path":"/database/mysql/MySQL-varchar%E4%B8%8Echar.html","title":"MySQL-varchar与char","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1694763025000,"contributors":[{"name":"拔土豆的程序员","email":"lizhifuabc@163.com","commits":1}]},"filePathRelative":"database/mysql/MySQL-varchar与char.md"}');export{a as data};

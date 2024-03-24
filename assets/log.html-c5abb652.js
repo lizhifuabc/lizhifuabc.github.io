@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as a,a as e,b as c}from"./app-def54fd2.js";const r={},s=e("h1",{id:"log",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#log","aria-hidden":"true"},"#"),c(" log")],-1),n=[s];function _(l,d){return t(),a("div",null,n)}const h=o(r,[["render",_],["__file","log.html.vue"]]);export{h as default};
