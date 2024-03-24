@@ -11,7 +11,7 @@ RunCat
 文本：
 
 - WPS Office
-- 
+- 有道云笔记
 
 浏览器
 
@@ -28,7 +28,14 @@ RunCat
 音乐/视频：
 
 - QQ音乐
+- 网易云音乐
 
 研发：
 
 - Visual Studio Code
+- dev-sidecar
+- Downie 4
+- Docker
+- draw.io
+- Chat2DB
+- IntelliJ IDEA
