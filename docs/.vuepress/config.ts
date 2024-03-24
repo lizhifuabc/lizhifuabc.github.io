@@ -37,8 +37,9 @@ export default {
           {text: '业务功能设计',link:'/design/business/'},
         ],
       },
-      { text: '数据库',
+      { text: '数据库|ORM框架',
         children: [
+          {text: 'Mybatis',link:'/database/mybatis/'},
           {text: 'MySQL',link:'/database/mysql/'},
           {text: 'NoSQL',link:'/database/nosql/'},
           {text: 'PostgreSQL',link:'/database/postgresql/'},
@@ -54,6 +55,7 @@ export default {
       { text: '支付系统', link: '/pay/' },
       { text: '工具集',
         children: [
+          {text: 'Mac软件',link:'/tools/mac/'},
           {text: 'Maven',link:'/tools/maven/'},
           {text: 'Docker',link:'/tools/Docker/'},
           {text: 'Git',link:'/tools/git/'},
