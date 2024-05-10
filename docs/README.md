@@ -3,12 +3,15 @@ home: true
 # Public 文件路径
 heroImage: /images/logo.png
 actions:
-  - text: 写点什么 →
-    link: /started/
+  - text: ← 面试遇到的题 →
+    link: /Interview/
     type: primary
-  - text: 几个项目 →
+  - text: ← 写点什么 →
+    link: /started/
+    type: se
+  - text: ← 几个项目 →
     link: /guide/
-    type: secondary
+    type: primary
 features:
   - title: 宗旨
     details: 三天打鱼，两天晒网。

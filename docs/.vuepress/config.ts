@@ -1,8 +1,13 @@
-import { defaultTheme } from 'vuepress'
+import { defaultTheme } from '@vuepress/theme-default'
 import { docsearchPlugin } from '@vuepress/plugin-docsearch'
 import { backToTopPlugin } from '@vuepress/plugin-back-to-top'
 
-export default {
+import { defineUserConfig } from 'vuepress'
+import type { DefaultThemeOptions } from 'vuepress'
+import { viteBundler } from '@vuepress/bundler-vite'
+
+
+export default defineUserConfig({
   lang: 'zh-CN',
   title: '拔土豆的程序员',
   description: '没进过大厂|技术一般|创业被坑|普普通通程序员',
@@ -10,7 +15,8 @@ export default {
   markdown:{
     lineNumbers: true, // 代码块行号
   },
-  theme : defaultTheme( {
+  bundler: viteBundler(),
+  theme : defaultTheme({
     logo: '/images/logo.png',
     // 添加导航栏
     navbar: [
@@ -55,9 +61,10 @@ export default {
       { text: '支付系统', link: '/pay/' },
       { text: '工具集',
         children: [
+          {text: 'Docker',link:'/tools/Docker/'},
+          {text: 'Arthas',link:'/tools/arthas/'},
           {text: 'Mac软件',link:'/tools/mac/'},
           {text: 'Maven',link:'/tools/maven/'},
-          {text: 'Docker',link:'/tools/Docker/'},
           {text: 'Git',link:'/tools/git/'},
           {text: 'IntelliJ IDEA',link:'/tools/idea/'},
           {text: '效率工具',link:'/tools/help/'},
@@ -75,4 +82,4 @@ export default {
       appId: '78IVUHUF7Z',
     }),
   ],
-}
+})

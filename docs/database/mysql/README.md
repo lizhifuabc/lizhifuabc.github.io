@@ -12,6 +12,8 @@
 
 ## 小技巧
 
+[MySQL-explain](./MySQL-explain.md)
+
 [MySQL-limit优化](./MySQL-limit优化.md)
 
 [MySQL-count用法分析](./MySQL-count用法分析.md)
@@ -27,3 +29,7 @@
 [MySQL更新优化](./MySQL更新优化.md)
 
 [MySQL主键](./MySQL主键.md)
+
+## 面经
+
+[select  for update](./MySQL-FOR-UPDATE.md)
