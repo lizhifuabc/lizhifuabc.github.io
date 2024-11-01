@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "bde6fc667fa532bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "298cff475bd77f6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bc196b5b95001a1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d1ad5fa400cd5c0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f36e933a61d31b13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8443e5a0eff40d19",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b64e992a2c59f149",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "84fc1b01947de110",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e73eddc063ddbad5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee13fe00eab4c133",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afe00cfe3f4067d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "database/mysql/MySQL-varchar与char.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "MySQL-varchar与char 的反向链接列表"
+            }
+          },
+          {
+            "id": "efa85658ccf9bcdf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "database/mysql/MySQL-varchar与char.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "MySQL-varchar与char 的出链列表"
+            }
+          },
+          {
+            "id": "7d6abc06c0adfa8a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "54c116c08377e9d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "database/mysql/MySQL-varchar与char.md"
+              },
+              "icon": "lucide-list",
+              "title": "MySQL-varchar与char 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "6bc196b5b95001a1",
+  "lastOpenFiles": [
+    "database/mysql/MySQL-varchar与char.md",
+    "database/mysql/MySQL-BinaryLog.md",
+    "README.md",
+    "started/2023年10月25日阅读源码没有意义.md",
+    "started/README.md",
+    "started/checkList.md",
+    "Interview/2024年05月08日.md"
+  ]
+}
